@@ -11,6 +11,7 @@ public class Main {
         //z2.zadachaka2();
         zadacha3 z3 = new zadacha3();
         z3.zadachka3();
+        int izmenenie = 465;
     }
 
 }
